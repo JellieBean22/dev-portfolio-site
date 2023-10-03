@@ -245,11 +245,11 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #teaching h2 {
-	color: #313134;
+	color: black;
 }
 
 #teaching .tag-line {
-	color: #313134;
+	color: #000000;
 	font-size: 1.4em;
 }
 
