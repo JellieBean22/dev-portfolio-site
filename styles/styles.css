@@ -3,7 +3,7 @@
 /*********** Global Styles********/
 
 body, html {
-		background-color: #97C1CB;
+		background-color: #2C918A;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -12,7 +12,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .wrapper {
-		background: #E3E3E3;
+		background: #2C918A;
 }
 
 .img-circle {
@@ -63,7 +63,7 @@ h1, h2, h3, h4, h5, h6 {
 #about {
 		margin-top: 10em;
 		border: 1px solid #23746efd;
-		background-color: #e8fce5a2;
+		background-color: #9BE1DE;
 		padding-bottom: 1em;
 }
 
@@ -174,7 +174,7 @@ h1, h2, h3, h4, h5, h6 {
 /*** work ***/
 #work {
 	padding: 6em 4em 3em;
-	background-color: #e8fce5a2;
+	background-color: #9BE1DE;
 	border: 1px solid #23746efd;
 }
 
@@ -263,7 +263,7 @@ h1, h2, h3, h4, h5, h6 {
 
 /*** Footer cta ***/
 #footer-cta {
-	background-color: #e8fce5a2;
+	background-color: #9BE1DE;
 	padding: 6em 4em 5.6em;
 	border: 1px solid #23746efd;
 }
@@ -305,7 +305,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #footer #logo {
-	background-color: #4a2f94d7;
+	background-color: #99DCD5;
 	border-radius: 30%;
 	color: #fff;
 	padding: .4em;
