@@ -3,7 +3,7 @@
 /*********** Global Styles********/
 
 body, html {
-		background-color: #2C918A;
+	background-color: #2C918A;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -12,25 +12,25 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .wrapper {
-		background: #E3E3E3;
+	background: #E3E3E3;
 }
 
 .img-circle {
-		border-radius: 20%;
+	border-radius: 20%;
 }
 
 .my-button {
-		font-size: 1em;
-		line-height: normal;
-		text-transform: uppercase;
-		font-family: 'Lato', sans-serif;
-		font-weight: 900;
-		-webkit-transition: all .2s ease-in-out;
-		transition: all .3s ease-in-out;
-		letter-spacing: 0;
-		border-radius: 45px;
-		height: auto;
-		padding: .8em 2.1em;
+	font-size: 1em;
+	line-height: normal;
+	text-transform: uppercase;
+	font-family: 'Lato', sans-serif;
+	font-weight: 900;
+	-webkit-transition: all .2s ease-in-out;
+	transition: all .3s ease-in-out;
+	letter-spacing: 0;
+	border-radius: 45px;
+	height: auto;
+	padding: .8em 2.1em;
 }
 
 .my-button:hover {
@@ -51,65 +51,65 @@ h1, h2, h3, h4, h5, h6 {
 /*** thin bar ***/
 
 .thin-bar {
-		border-bottom: 5px solid #810eb7;
+	border-bottom: 5px solid #810eb7;
 }
 
 
 /*** About ***/
 
 #about {
-		margin-top: 10em;
-		border: 1px solid #23746efd;
-		background-color: #9BE1DE;
-		padding-bottom: 2em;
+	margin-top: 10em;
+	border: 1px solid #23746efd;
+	background-color: #9BE1DE;
+	padding-bottom: 2em;
 }
 
 
 #about img {
-		max-width: 15em;
-		position: relative;
-		bottom: 8em;
+	max-width: 15em;
+	position: relative;
+	bottom: 8em;
 }
 
 #about .details {
-		margin-top: -2em;
+	margin-top: -2em;
 }
 
 #about h2 {
-		color: #080505a2;
-		font-size: 3.8em;
-		padding-bottom: 1em;
+	color: #080505a2;
+	font-size: 3.8em;
+	padding-bottom: 1em;
 }
 
 #about span {
-		font-weight: 300;
-		font-size: .8em;
+	font-weight: 300;
+	font-size: .8em;
 }
 
 #about h5 {
-		color: #8A8A8B;
+	color: #8A8A8B;
 }
 
 #about p {
-		margin-top: 1em;
-		color: #646464;
-		font-family: "roboto";
-		font-weight: 300;
+	margin-top: 1em;
+	color: #646464;
+	font-family: "roboto";
+	font-weight: 300;
 }
 
 .cta .cta-button {
-		color: #080505a2;
-		text-transform: uppercase;
-		border: 2px solid rgb(43, 116, 104);
-		border-radius: 20px;
-		background: #fff;
+	color: #080505a2;
+	text-transform: uppercase;
+	border: 2px solid rgb(43, 116, 104);
+	border-radius: 20px;
+	background: #fff;
 }
 
 .cta .cta-button:hover, .cta .cta-button:focus {
-		box-shadow: 0 5px 11px 0 rgba(0, 0, 0, 0.18), 0 4px 14px 1px rgba(0, 0, 0, 0.15);
-		background-color: rgb(43, 116, 104);
-		color: #fff;
-		transition: all .3s ease-in-out;
+	box-shadow: 0 5px 11px 0 rgba(0, 0, 0, 0.18), 0 4px 14px 1px rgba(0, 0, 0, 0.15);
+	background-color: rgb(43, 116, 104);
+	color: #fff;
+	transition: all .3s ease-in-out;
 }
 
 .my-arrow-div .tltp{
@@ -160,7 +160,6 @@ h1, h2, h3, h4, h5, h6 {
 	color: #ACAEB2;
 	font-family: "Maven pro", sans-serif;
 	border-color: #000;
-	/*font-weight: 500;*/
 }
 
 .experience-topics ul li {
@@ -181,7 +180,6 @@ h1, h2, h3, h4, h5, h6 {
 	color: #313134;
 	margin-bottom: .8em;
 }
-
 
 #work .tag-line {
 	color: #767779;
@@ -221,17 +219,17 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .details a, .details a:link, .details a:active{
-		color: rgba(39, 100, 186, 0.91);
-		border: 2px solid rgb(6, 121, 100) !important;
-		background-color: #fff;
-		border-radius: 20px;
+	color: rgba(39, 100, 186, 0.91);
+	border: 2px solid rgb(6, 121, 100) !important;
+	background-color: #fff;
+	border-radius: 20px;
 }
 
 .details a:hover, .details a:focus {
-		box-shadow: 0 5px 11px 0 rgba(0, 0, 0, 0.18), 0 4px 14px 1px rgba(0, 0, 0, 0.15);
-		background-color: rgba(39, 100, 186, 0.91) !important;
-		color: #fff;
-		transition: all .3s ease-in-out;
+	box-shadow: 0 5px 11px 0 rgba(0, 0, 0, 0.18), 0 4px 14px 1px rgba(0, 0, 0, 0.15);
+	background-color: rgba(39, 100, 186, 0.91) !important;
+	color: #fff;
+	transition: all .3s ease-in-out;
 }
 
 .work-row{
